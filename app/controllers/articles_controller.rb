@@ -37,6 +37,13 @@ class ArticlesController < ApplicationController
     end
   end
 
+  def destroy
+    @article = Article.find(params[:id])
+    @article.destroy
+
+    redirect_to articles_path
+  end
+
 
   # public methods (index, show, new, edit, create, update and destroy) placed before private methods
 
