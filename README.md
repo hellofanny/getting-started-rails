@@ -29,6 +29,16 @@ Running the server:
 
 
 ## Roadmap 🛤
+- [x] Guide Assumptions
+- [x] 2 What is Rails?
+- [x] 3 Creating a New Rails Project
+- [x] 4 Hello, Rails!
+- [x] 5 Getting Up and Running
+- [ ] 6 Adding a Second Model
+- [ ] 7 Refactoring
+- [ ] 8 Deleting Comments
+- [ ] 9 Security
+- [ ] Add some style! ✨
 
 
 ## Useful Links / References 🤓
