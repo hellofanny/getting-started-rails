@@ -1,24 +1,38 @@
-# README
+# Hello, Rails! 👋
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Following Getting Started with Rails guide
 
-Things you may want to cover:
+Trying to understand how Rails application work, following the [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html).
+Rails is a web application framework running on the Ruby programming language.
 
-* Ruby version
+***
 
-* System dependencies
+## Getting Started ▶️
 
-* Configuration
+### Dependencies / Requirements
+- Ruby
+- SQLite3
+- Node.js
+- Yarn
 
-* Database creation
+### Installing 
 
-* Database initialization
+Installing gems:
 
-* How to run the test suite
+	bundle install
 
-* Services (job queues, cache servers, search engines, etc.)
+### Running
 
-* Deployment instructions
+Running the server:
 
-* ...
+	run server
+
+
+### Roadmap
+
+
+
+## Useful Links / References
+- [Rails Guide](https://guides.rubyonrails.org/getting_started.html)
+- [Ruby Essentials](https://www.techotopia.com/index.php/Ruby_Essentials)
+- [Ruby Learning](http://rubylearning.com/satishtalim/tutorial.html)
