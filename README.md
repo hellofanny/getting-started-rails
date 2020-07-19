@@ -21,6 +21,13 @@ Installing project's updates dependencies:
 
 	yarn install
 
+### Configuring
+
+Running migrations (database):
+
+	rails db:migrate RAILS_ENV=development
+
+
 ### Running
 
 Running the server:
