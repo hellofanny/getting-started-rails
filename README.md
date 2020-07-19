@@ -17,9 +17,9 @@ Rails is a web application framework running on the Ruby programming language.
 
 ### Installing 
 
-Installing gems:
+Installing project's updates dependencies:
 
-	bundle install
+	yarn install
 
 ### Running
 
